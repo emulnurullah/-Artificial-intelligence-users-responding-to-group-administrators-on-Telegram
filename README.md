@@ -1,4 +1,4 @@
-# Telegram Yöneticisi Mesaj Yorumlama Botu
+# Telegram'da sahte grup üyeleri oluşturma
 
 Bu proje, Telegram gruplarında yöneticiler tarafından gönderilen mesajları takip ederek, bu mesajlara OpenAI GPT-4 kullanarak samimi, yazım hatalı ve doğal yorumlar ekleyen bir botu simüle eder. Yorumlar, belirli bir grup için JSON formatında döndürülür ve rastgele hesaplardan grup sohbetine gönderilir.
 
