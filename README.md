@@ -21,6 +21,10 @@ Bu projeyi çalıştırabilmek için aşağıdaki kütüphanelerin yüklü olmas
 - **re**: Metin düzenlemeleri yapmak için.
 - **json**: JSON formatında veri işlemek için.
 
+## Uyarı
+
+Bu işlem hesaplarınızın kapanmasına sebep olabilir, önemli hesaplarınızı bu işlemler için kullanmayınız.
+
 ### Kütüphanelerin Kurulumu
 
 Proje için gerekli Python kütüphanelerini yüklemek için aşağıdaki komutları kullanabilirsiniz:
